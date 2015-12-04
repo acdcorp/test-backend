@@ -4,10 +4,10 @@ Using the provided application add the following features:
 
 - Authentication.  Using [shield](https://github.com/cyx/shield).  Make sure to
   add a `current_user` method to [roda](https://github.com/jeremyevans/roda).
-  Hook it into the auth component.  Make sure you can't access the root url
+  Hook it into the login component.  Make sure you can't access the root url
   without being logged in.
 
-- Registration.  Hook this into the auth component and make sure it saves to the
+- Registration.  Hook this into the login component and make sure it saves to the
   `sqlite3` database using [sequel](https://github.com/jeremyevans/sequel).
 
 - Tasks. Ability to add/remove and mark tasks as read for each user, saving to
