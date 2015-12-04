@@ -1,0 +1,11 @@
+.*.env*
+.env*
+.sass-cache
+tmp
+.DS_Store
+node_modules
+tags
+.bundle
+asset_metadata.txt
+log/*.log
+bower_components

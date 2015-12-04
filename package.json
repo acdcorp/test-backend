@@ -1,0 +1,14 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "Using the following technology:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cj <email@cj.io> (http://cj.io)",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.6.8"
+  }
+}

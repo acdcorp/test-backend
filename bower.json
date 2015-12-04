@@ -1,0 +1,25 @@
+{
+  "name": "test-backend",
+  "description": "Using the following technology:",
+  "main": "index.js",
+  "authors": [
+    "cj <email@cj.io> (http://cj.io)"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.5.0",
+    "jquery.maskedinput": "~1.4.1"
+  }
+}
